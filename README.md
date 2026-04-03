@@ -1,4 +1,4 @@
-# PDF Compressor v4.0.0
+# PDF Compressor 0.1
 
 A modern, high-performance desktop application for PDF manipulation and adaptive compression. Built with **PySide6** and designed with a premium, SaaS-inspired aesthetic.
 
